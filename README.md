@@ -1,6 +1,6 @@
 # dodo-app
 
-developed with Vue3, Vite, Tailwind CSS, Axios, Json Database and Pinia
+developed with Vue3, Vite, Tailwind CSS, Axios, JSON server and Pinia
 
 ## Project Setup
 
